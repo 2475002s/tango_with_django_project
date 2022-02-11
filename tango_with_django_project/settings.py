@@ -134,3 +134,5 @@ MEDIA_URL = '/media/'
 # Login
 
 LOGIN_URL = 'rango:login'
+
+# Cookies
